@@ -1,3 +1,5 @@
+// Лабораторная 6
+
 using System;
 using System.Linq;
 
